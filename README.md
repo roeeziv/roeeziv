@@ -54,9 +54,9 @@
 
 
 <!-- Bio and Contact Info -->
-<h3 align="center">A passionate Software Engineer Student born in Israel </h3>
+<h3 align="left">A passionate Software Engineer Student born in Israel </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="roeeziv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roeeziv&label=Profile%20views&color=0e75b6&style=flat" alt="roeeziv" /> </p>
 
 - 🔭 I’m currently working on ML projects
 
