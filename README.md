@@ -41,7 +41,7 @@
 <!-- Replace the following table with your WEB projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| react-minesweeper | Brief description | Tech List | [minesweeper](https://github.com/roeeziv/react-minesweeper.git) |
+| react-minesweeper | Developed a Minesweeper game using React, HTML, CSS, and JavaScript for a fun and challenging interactive gaming experience. | Tech List | [minesweeper](https://github.com/roeeziv/react-minesweeper.git) |
 
 
 <!-- OOP & Languages Section -->
