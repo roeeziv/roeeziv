@@ -23,7 +23,7 @@
 <!-- Replace the following table with your Multi-Threading projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| SetCards Game | Brief description | Tech List | [SetCards Game](https://github.com/roeeziv/SetCards-Game.git) |
+| SetCards Game | The project was made in Java and in order to demonstrate my knowledge in multi-threading and designing algorithms. | Tech List | [SetCards Game](https://github.com/roeeziv/SetCards-Game.git) |
 
 
 <!-- Networks Section -->
