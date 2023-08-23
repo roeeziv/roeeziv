@@ -15,7 +15,7 @@
 <!-- Replace the following table with your DL/ML projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| SP500 Machine Learning Project | The project is about creating a model to predict whether the price of the S&P 500 index will increase or decrease based on historical data. It includes the process of examining various models and selecting one accordingly, training it, backtesting, and optimizing it's prediction tools&methods, aswell as cleaning the data fed to it. Below listed further information regarding each phase. | Python, Pandas, NumPy, Matplotlib, Scikit-learn, pandas_datareader, yfinance | [S&P500 ML](https://github.com/roeeziv/SP500_Machine_Learning_Project.git) |
+| S&P500 Machine Learning Project | The project is about creating a model to predict whether the price of the S&P 500 index will increase or decrease based on historical data. It includes the process of examining various models and selecting one accordingly, training it, backtesting, and optimizing it's prediction tools&methods, aswell as cleaning the data fed to it. Below listed further information regarding each phase. | Python, Pandas, NumPy, Matplotlib, Scikit-learn, pandas_datareader, yfinance | [S&P500 ML](https://github.com/roeeziv/SP500_Machine_Learning_Project.git) |
 
 <!-- Multi-Threading Section -->
 ## 🧵 Multi-Threading
