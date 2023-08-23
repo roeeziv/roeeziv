@@ -32,7 +32,7 @@
 <!-- Replace the following table with your Networks projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| online-forum-WC2022 | TCP/UDP protocols to online data transfer, including Reactor and Thread-Per-Client patterns. Serialization, Encoding and Decoding of packets/messages. C++ and Java multi-threading | TCP/UDP protocols, C++, Java | [online-forum-WC2022](https://github.com/roeeziv/online-forum-WC2022.git) |
+| online forum WC2022 | TCP/UDP protocols to online data transfer, including Reactor and Thread-Per-Client patterns. Serialization, Encoding and Decoding of packets/messages. C++ and Java multi-threading | TCP/UDP protocols, C++, Java | [online-forum-WC2022](https://github.com/roeeziv/online-forum-WC2022.git) |
 
 
 <!-- WEB Section -->
@@ -41,7 +41,7 @@
 <!-- Replace the following table with your WEB projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| react-minesweeper | Developed a Minesweeper game using React, HTML, CSS, and JavaScript for a fun and challenging interactive gaming experience. | React, HTML, CSS, JS | [minesweeper](https://github.com/roeeziv/react-minesweeper.git) |
+| React Minesweeper | Developed a Minesweeper game using React, HTML, CSS, and JavaScript for a fun and challenging interactive gaming experience. | React, HTML, CSS, JS | [minesweeper](https://github.com/roeeziv/react-minesweeper.git) |
 
 
 <!-- OOP & Languages Section -->
