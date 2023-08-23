@@ -15,8 +15,7 @@
 <!-- Replace the following table with your DL/ML projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| SP500_Machine_Learning_Project | Brief description | Tech List | [Project Repository](https://github.com/roeeziv/SP500_Machine_Learning_Project.git) |
-| ... | ... | ... | ... |
+| SP500 Machine Learning Project | Brief description | Tech List | [S&P500 ML](https://github.com/roeeziv/SP500_Machine_Learning_Project.git) |
 
 <!-- Multi-Threading Section -->
 ## 🧵 Multi-Threading
@@ -24,8 +23,8 @@
 <!-- Replace the following table with your Multi-Threading projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| SetCards-Game | Brief description | Tech List | [Project Repository](https://github.com/roeeziv/SetCards-Game.git) |
-| ... | ... | ... | ... |
+| SetCards Game | Brief description | Tech List | [SetCards Game](https://github.com/roeeziv/SetCards-Game.git) |
+
 
 <!-- Networks Section -->
 ## 🌐 Networks
@@ -33,8 +32,8 @@
 <!-- Replace the following table with your Networks projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| online-forum-WC2022 | Brief description | Tech List | [Project Repository](https://github.com/roeeziv/online-forum-WC2022.git) |
-| ... | ... | ... | ... |
+| online-forum-WC2022 | Brief description | Tech List | [online-forum-WC2022](https://github.com/roeeziv/online-forum-WC2022.git) |
+
 
 <!-- WEB Section -->
 ## 🌍 WEB
@@ -42,8 +41,8 @@
 <!-- Replace the following table with your WEB projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| react-minesweeper | Brief description | Tech List | [Project Repository](https://github.com/roeeziv/react-minesweeper.git) |
-| ... | ... | ... | ... |
+| react-minesweeper | Brief description | Tech List | [minesweeper](https://github.com/roeeziv/react-minesweeper.git) |
+
 
 <!-- OOP & Languages Section -->
 ## 👨‍💻 OOP & Languages
@@ -51,8 +50,8 @@
 <!-- Replace the following table with your OOP & Languages projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| KANBAN | Brief description | Tech List | [Project Repository](https://github.com/roeeziv/KANBAN.git) |
-| ... | ... | ... | ... |
+| KANBAN | Brief description | Tech List | [KANBAN](https://github.com/roeeziv/KANBAN.git) |
+
 
 <!-- Bio and Contact Info -->
 <h3 align="center">A passionate Software Engineer Student born in Israel </h3>
