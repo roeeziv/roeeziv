@@ -50,7 +50,7 @@
 <!-- Replace the following table with your OOP & Languages projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| KANBAN | Brief description | Tech List | [KANBAN](https://github.com/roeeziv/KANBAN.git) |
+| KANBAN | The Kanban Board is a task management tool employing the Kanban approach, with a user-friendly interface and C# backend. It enables task creation, progress tracking, filtering, and secure user access. Utilizes .NET, ASP.NET, Entity Framework, and SQL Server. | Tech List | [KANBAN](https://github.com/roeeziv/KANBAN.git) |
 
 
 <!-- Bio and Contact Info -->
