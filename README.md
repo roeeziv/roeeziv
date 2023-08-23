@@ -15,7 +15,7 @@
 <!-- Replace the following table with your DL/ML projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| SP500 Machine Learning Project | The project is about creating a model to predict whether the price of the S&P 500 index will increase or decrease based on historical data. It includes the process of examining various models and selecting one accordingly, training it, backtesting, and optimizing it's prediction tools&methods, aswell as cleaning the data fed to it. Below listed further information regarding each phase. | Tech List | [S&P500 ML](https://github.com/roeeziv/SP500_Machine_Learning_Project.git) |
+| SP500 Machine Learning Project | The project is about creating a model to predict whether the price of the S&P 500 index will increase or decrease based on historical data. It includes the process of examining various models and selecting one accordingly, training it, backtesting, and optimizing it's prediction tools&methods, aswell as cleaning the data fed to it. Below listed further information regarding each phase. | Python, Pandas, NumPy, Matplotlib, Scikit-learn, pandas_datareader, yfinance | [S&P500 ML](https://github.com/roeeziv/SP500_Machine_Learning_Project.git) |
 
 <!-- Multi-Threading Section -->
 ## 🧵 Multi-Threading
@@ -23,7 +23,7 @@
 <!-- Replace the following table with your Multi-Threading projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| SetCards Game | The project was made in Java and in order to demonstrate my knowledge in multi-threading and designing algorithms. | Tech List | [SetCards Game](https://github.com/roeeziv/SetCards-Game.git) |
+| SetCards Game | The project was made in Java and in order to demonstrate my knowledge in multi-threading and designing algorithms. | Java | [SetCards Game](https://github.com/roeeziv/SetCards-Game.git) |
 
 
 <!-- Networks Section -->
@@ -32,7 +32,7 @@
 <!-- Replace the following table with your Networks projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| online-forum-WC2022 | TCP/UDP protocols to online data transfer, including Reactor and Thread-Per-Client patterns. Serialization, Encoding and Decoding of packets/messages. C++ and Java multi-threading | Tech List | [online-forum-WC2022](https://github.com/roeeziv/online-forum-WC2022.git) |
+| online-forum-WC2022 | TCP/UDP protocols to online data transfer, including Reactor and Thread-Per-Client patterns. Serialization, Encoding and Decoding of packets/messages. C++ and Java multi-threading | TCP/UDP protocols, C++, Java | [online-forum-WC2022](https://github.com/roeeziv/online-forum-WC2022.git) |
 
 
 <!-- WEB Section -->
@@ -41,7 +41,7 @@
 <!-- Replace the following table with your WEB projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| react-minesweeper | Developed a Minesweeper game using React, HTML, CSS, and JavaScript for a fun and challenging interactive gaming experience. | Tech List | [minesweeper](https://github.com/roeeziv/react-minesweeper.git) |
+| react-minesweeper | Developed a Minesweeper game using React, HTML, CSS, and JavaScript for a fun and challenging interactive gaming experience. | React, HTML, CSS, JS | [minesweeper](https://github.com/roeeziv/react-minesweeper.git) |
 
 
 <!-- OOP & Languages Section -->
@@ -50,7 +50,7 @@
 <!-- Replace the following table with your OOP & Languages projects -->
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| KANBAN | The Kanban Board is a task management tool employing the Kanban approach, with a user-friendly interface and C# backend. It enables task creation, progress tracking, filtering, and secure user access. Utilizes .NET, ASP.NET, Entity Framework, and SQL Server. | Tech List | [KANBAN](https://github.com/roeeziv/KANBAN.git) |
+| KANBAN | The Kanban Board is a task management tool employing the Kanban approach, with a user-friendly interface and C# backend. It enables task creation, progress tracking, filtering, and secure user access. Utilizes .NET, ASP.NET, Entity Framework, and SQL Server. | C# | [KANBAN](https://github.com/roeeziv/KANBAN.git) |
 
 
 <!-- Bio and Contact Info -->
