@@ -6,7 +6,7 @@
 - [💡 DL/ML](#dlml)
 - [🧵 Multi-Threading](#multi-threading)
 - [🌐 Networks](#networks)
-- [🌍 WEB](#web)
+- [🌍 Web](#web)
 - [👨‍💻 OOP & Languages](#oop--languages)
 
 <!-- DL/ML Section -->
