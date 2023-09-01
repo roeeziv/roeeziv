@@ -1,5 +1,5 @@
 ![banner](https://as2.ftcdn.net/v2/jpg/01/90/08/69/1000_F_190086992_bDNpRVxiuYP3S7DWS5gfGk3J0SV9bHc3.jpg)
-<h1 align="center">Hey, Im Roee <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
+<h1 align="center">Hey, I'm Roee <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 
 <!-- Table of Contents -->
 ## Table of Contents
